@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module SVKP_college {
-}
