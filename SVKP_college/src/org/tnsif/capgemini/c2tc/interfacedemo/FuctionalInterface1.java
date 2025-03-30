@@ -1,6 +1,6 @@
 package org.tnsif.capgemini.c2tc.interfacedemo;
 
-import java.lang.FunctonalInterface;
+import java.lang.FunctionalInterface;
 @FunctionalInterface
 
 public interface FuctionalInterface1 {

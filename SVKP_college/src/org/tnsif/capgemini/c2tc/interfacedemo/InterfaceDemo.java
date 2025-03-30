@@ -5,8 +5,8 @@ public class InterfaceDemo {
 
 	public static void main(String[] args) {
 		//you can't instantiate the interface itself
-				Vehicle car=new Car();
-				Vehicle bike=new Bike();
+				Vehicle car=new Car("Toyota corolla");
+				Vehicle bike=new Bike("Mountain Bike");
 				
 				
 				car.start();
